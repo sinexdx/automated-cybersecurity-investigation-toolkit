@@ -8,7 +8,7 @@ def main():
     subprocess.run(["bash", "scripts/bash/analyse_logs.sh"])
     print()
     print("Investigating Windows security events...")
-    subprocess.run(["C:/Windows/System32/WindowsPowershell/v1.0/powershell.exe", "-ExecutionPolicy", "Bypass", "-File", "scripts/powershell/analyse_windows.ps1"])
+    subprocess.run(["powershell.exe", "-ExecutionPolicy", "Bypass", "-File", "scripts/powershell/analyse_windows.ps1"])
     print()
     print("Investigating indicators of compromise...")
     subprocess.run(["py", "scripts/python/ioc_matches.py"])
