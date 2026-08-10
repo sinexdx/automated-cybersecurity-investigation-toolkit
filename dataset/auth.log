@@ -1,0 +1,369 @@
+Mar 12 10:38:00 student-lab-vm sshd[4673]: Accepted publickey for admin from 10.0.0.22 port 54467 ssh2
+Mar 12 10:39:01 student-lab-vm sshd[1508]: pam_unix(sshd:session): session closed for user admin
+Mar 12 11:23:00 student-lab-vm sshd[5065]: Accepted publickey for charlie from 13.107.246.45 port 56491 ssh2
+Mar 12 11:25:10 student-lab-vm sshd[7267]: pam_unix(sshd:session): session closed for user charlie
+Mar 12 14:01:00 student-lab-vm sshd[5291]: Accepted publickey for alice from 13.107.246.45 port 47286 ssh2
+Mar 12 14:08:52 student-lab-vm sshd[8007]: pam_unix(sshd:session): session closed for user alice
+Mar 12 15:59:00 student-lab-vm sshd[1936]: Accepted publickey for svc_backup from 10.0.0.22 port 53276 ssh2
+Mar 12 16:07:28 student-lab-vm sshd[9238]: pam_unix(sshd:session): session closed for user svc_backup
+Mar 12 16:08:00 student-lab-vm sshd[5728]: Failed password for fatima from 13.107.246.45 port 62498 ssh2
+Mar 12 17:12:00 student-lab-vm sshd[9423]: Accepted publickey for alice from 13.107.246.45 port 45321 ssh2
+Mar 12 17:20:37 student-lab-vm sshd[4510]: pam_unix(sshd:session): session closed for user alice
+Mar 12 18:00:00 student-lab-vm sshd[5345]: Accepted publickey for admin from 81.2.69.142 port 59576 ssh2
+Mar 12 18:06:17 student-lab-vm sshd[2127]: pam_unix(sshd:session): session closed for user admin
+Mar 12 18:12:00 student-lab-vm sshd[7512]: Failed password for administrator from 13.107.246.45 port 54093 ssh2
+Mar 12 18:45:00 student-lab-vm sshd[9727]: Accepted publickey for bob from 20.190.160.10 port 45267 ssh2
+Mar 12 19:52:00 student-lab-vm sshd[1488]: Accepted publickey for svc_backup from 185.199.108.133 port 44041 ssh2
+Mar 12 19:56:18 student-lab-vm sshd[9279]: pam_unix(sshd:session): session closed for user svc_backup
+Mar 12 20:01:00 student-lab-vm sshd[2899]: Failed password for oracle from 13.107.246.45 port 53593 ssh2
+Mar 12 20:28:00 student-lab-vm sshd[1339]: Failed password for helen from 20.190.160.10 port 62238 ssh2
+Mar 12 20:44:00 student-lab-vm sshd[8956]: Accepted publickey for diana from 192.168.1.44 port 56317 ssh2
+Mar 12 20:51:10 student-lab-vm sshd[1960]: pam_unix(sshd:session): session closed for user diana
+Mar 12 21:57:00 student-lab-vm sshd[6881]: Accepted publickey for bob from 34.117.59.81 port 46169 ssh2
+Mar 12 22:00:00 student-lab-vm sshd[8690]: Failed password for alice from 20.190.160.10 port 52317 ssh2
+Mar 12 22:08:00 student-lab-vm sshd[2753]: Accepted publickey for charlie from 104.16.132.229 port 46782 ssh2
+Mar 12 22:10:59 student-lab-vm sshd[5462]: pam_unix(sshd:session): session closed for user charlie
+Mar 12 22:24:00 student-lab-vm sshd[8532]: Failed password for temp from 151.101.1.69 port 63826 ssh2
+Mar 12 22:48:00 student-lab-vm sshd[6139]: Accepted publickey for svc_backup from 185.199.108.133 port 54327 ssh2
+Mar 12 22:57:03 student-lab-vm sshd[2894]: pam_unix(sshd:session): session closed for user svc_backup
+Mar 13  0:34:00 student-lab-vm sshd[3594]: Failed password for alice from 20.190.160.10 port 50841 ssh2
+Mar 13  1:31:00 student-lab-vm sshd[9645]: Accepted publickey for helen from 192.168.1.44 port 51685 ssh2
+Mar 13  2:10:00 student-lab-vm sshd[6383]: Failed password for support from 203.0.113.45 port 60485 ssh2
+Mar 13  2:10:44 student-lab-vm sshd[2121]: Failed password for guest from 203.0.113.45 port 50692 ssh2
+Mar 13  2:10:44 student-lab-vm sshd[8994]: Failed password for oracle from 203.0.113.45 port 60728 ssh2
+Mar 13  2:11:44 student-lab-vm sshd[2646]: Failed password for support from 203.0.113.45 port 57538 ssh2
+Mar 13  2:11:54 student-lab-vm sshd[2480]: Failed password for root from 203.0.113.45 port 57220 ssh2
+Mar 13  2:12:12 student-lab-vm sshd[1919]: Failed password for oracle from 203.0.113.45 port 52613 ssh2
+Mar 13  2:12:30 student-lab-vm sshd[5906]: Failed password for backup from 203.0.113.45 port 43948 ssh2
+Mar 13  2:14:20 student-lab-vm sshd[8622]: Failed password for support from 203.0.113.45 port 52425 ssh2
+Mar 13  2:14:39 student-lab-vm sshd[3868]: Failed password for root from 203.0.113.45 port 45587 ssh2
+Mar 13  2:14:40 student-lab-vm sshd[7751]: Failed password for guest from 203.0.113.45 port 61544 ssh2
+Mar 13  2:14:54 student-lab-vm sshd[8056]: Failed password for oracle from 203.0.113.45 port 47770 ssh2
+Mar 13  2:15:19 student-lab-vm sshd[8555]: Failed password for root from 203.0.113.45 port 63902 ssh2
+Mar 13  2:17:00 student-lab-vm sshd[1803]: Failed password for guest from 203.0.113.45 port 62870 ssh2
+Mar 13  2:17:00 student-lab-vm sshd[7484]: Failed password for support from 203.0.113.45 port 51994 ssh2
+Mar 13  2:17:12 student-lab-vm sshd[5183]: Failed password for test from 203.0.113.45 port 64851 ssh2
+Mar 13  2:17:20 student-lab-vm sshd[4945]: Failed password for guest from 203.0.113.45 port 59307 ssh2
+Mar 13  2:17:48 student-lab-vm sshd[7248]: Failed password for root from 203.0.113.45 port 61740 ssh2
+Mar 13  2:20:30 student-lab-vm sshd[5901]: Failed password for guest from 203.0.113.45 port 63936 ssh2
+Mar 13  2:20:50 student-lab-vm sshd[1645]: Failed password for backup from 203.0.113.45 port 53123 ssh2
+Mar 13  2:21:03 student-lab-vm sshd[7302]: Failed password for root from 203.0.113.45 port 58833 ssh2
+Mar 13  2:21:15 student-lab-vm sshd[6352]: Failed password for oracle from 203.0.113.45 port 56615 ssh2
+Mar 13  2:21:20 student-lab-vm sshd[9791]: Failed password for oracle from 203.0.113.45 port 47049 ssh2
+Mar 13  2:22:32 student-lab-vm sshd[5097]: Failed password for backup from 203.0.113.45 port 57969 ssh2
+Mar 13  2:22:36 student-lab-vm sshd[2210]: Failed password for root from 203.0.113.45 port 57474 ssh2
+Mar 13  2:22:48 student-lab-vm sshd[4696]: Failed password for root from 203.0.113.45 port 56022 ssh2
+Mar 13  2:23:18 student-lab-vm sshd[5847]: Failed password for guest from 203.0.113.45 port 52674 ssh2
+Mar 13  2:24:24 student-lab-vm sshd[3240]: Failed password for backup from 203.0.113.45 port 63586 ssh2
+Mar 13  2:24:28 student-lab-vm sshd[3165]: Failed password for root from 203.0.113.45 port 60675 ssh2
+Mar 13  2:25:00 student-lab-vm sshd[8894]: Failed password for oracle from 203.0.113.45 port 52671 ssh2
+Mar 13  2:25:02 student-lab-vm sshd[9071]: Failed password for oracle from 203.0.113.45 port 46805 ssh2
+Mar 13  2:25:36 student-lab-vm sshd[8606]: Failed password for backup from 203.0.113.45 port 52902 ssh2
+Mar 13  2:26:06 student-lab-vm sshd[4115]: Failed password for root from 203.0.113.45 port 63345 ssh2
+Mar 13  2:28:12 student-lab-vm sshd[9807]: Failed password for root from 203.0.113.45 port 47445 ssh2
+Mar 13  2:28:42 student-lab-vm sshd[5689]: Failed password for support from 203.0.113.45 port 50540 ssh2
+Mar 13  2:29:20 student-lab-vm sshd[4898]: Failed password for oracle from 203.0.113.45 port 62295 ssh2
+Mar 13  2:29:30 student-lab-vm sshd[9017]: Failed password for support from 203.0.113.45 port 63173 ssh2
+Mar 13  2:30:47 student-lab-vm sshd[9221]: Failed password for guest from 203.0.113.45 port 51930 ssh2
+Mar 13  2:30:48 student-lab-vm sshd[6977]: Failed password for admin from 203.0.113.45 port 47306 ssh2
+Mar 13  2:30:58 student-lab-vm sshd[1410]: Failed password for test from 203.0.113.45 port 63301 ssh2
+Mar 13  2:31:11 student-lab-vm sshd[2886]: Failed password for support from 203.0.113.45 port 58346 ssh2
+Mar 13  2:33:00 student-lab-vm sshd[7897]: Failed password for root from 203.0.113.45 port 60238 ssh2
+Mar 13  2:33:28 student-lab-vm sshd[9543]: Failed password for backup from 203.0.113.45 port 52883 ssh2
+Mar 13  2:35:51 student-lab-vm sshd[8285]: Failed password for test from 203.0.113.45 port 50736 ssh2
+Mar 13  2:36:24 student-lab-vm sshd[7086]: Failed password for support from 203.0.113.45 port 46550 ssh2
+Mar 13  2:36:35 student-lab-vm sshd[1046]: Failed password for support from 203.0.113.45 port 52085 ssh2
+Mar 13  2:36:40 student-lab-vm sshd[8450]: Failed password for admin from 203.0.113.45 port 46003 ssh2
+Mar 13  2:37:04 student-lab-vm sshd[9850]: Failed password for root from 203.0.113.45 port 51213 ssh2
+Mar 13  2:37:18 student-lab-vm sshd[9254]: Failed password for test from 203.0.113.45 port 50259 ssh2
+Mar 13  2:37:27 student-lab-vm sshd[2041]: Failed password for backup from 203.0.113.45 port 58605 ssh2
+Mar 13  2:38:03 student-lab-vm sshd[1349]: Failed password for backup from 203.0.113.45 port 44657 ssh2
+Mar 13  2:38:20 student-lab-vm sshd[3430]: Failed password for oracle from 203.0.113.45 port 45152 ssh2
+Mar 13  2:38:35 student-lab-vm sshd[5295]: Failed password for oracle from 203.0.113.45 port 62154 ssh2
+Mar 13  2:39:02 student-lab-vm sshd[8267]: Failed password for test from 203.0.113.45 port 45408 ssh2
+Mar 13  2:39:09 student-lab-vm sshd[4394]: Failed password for admin from 203.0.113.45 port 62214 ssh2
+Mar 13  2:39:27 student-lab-vm sshd[1422]: Failed password for admin from 203.0.113.45 port 47318 ssh2
+Mar 13  2:39:42 student-lab-vm sshd[4817]: Failed password for support from 203.0.113.45 port 53766 ssh2
+Mar 13  2:40:15 student-lab-vm sshd[2479]: Failed password for oracle from 203.0.113.45 port 55929 ssh2
+Mar 13  2:40:40 student-lab-vm sshd[3290]: Failed password for admin from 203.0.113.45 port 44485 ssh2
+Mar 13  2:40:48 student-lab-vm sshd[2398]: Failed password for admin from 203.0.113.45 port 46054 ssh2
+Mar 13  2:41:32 student-lab-vm sshd[7078]: Failed password for test from 203.0.113.45 port 64970 ssh2
+Mar 13  2:42:12 student-lab-vm sshd[9984]: Failed password for oracle from 203.0.113.45 port 53655 ssh2
+Mar 13  2:42:24 student-lab-vm sshd[4522]: Failed password for support from 203.0.113.45 port 57092 ssh2
+Mar 13  2:44:18 student-lab-vm sshd[7523]: Failed password for admin from 203.0.113.45 port 52040 ssh2
+Mar 13  2:44:24 student-lab-vm sshd[7018]: Failed password for admin from 203.0.113.45 port 60841 ssh2
+Mar 13  2:44:50 student-lab-vm sshd[4626]: Failed password for oracle from 203.0.113.45 port 64222 ssh2
+Mar 13  2:45:16 student-lab-vm sshd[1536]: Failed password for oracle from 203.0.113.45 port 55141 ssh2
+Mar 13  2:45:32 student-lab-vm sshd[3063]: Failed password for root from 203.0.113.45 port 61500 ssh2
+Mar 13  2:46:00 student-lab-vm sshd[6793]: Failed password for test from 203.0.113.45 port 64801 ssh2
+Mar 13  2:49:20 student-lab-vm sshd[3854]: Failed password for admin from 203.0.113.45 port 51695 ssh2
+Mar 13  2:49:36 student-lab-vm sshd[3531]: Failed password for test from 203.0.113.45 port 56594 ssh2
+Mar 13  2:55:36 student-lab-vm sshd[3500]: Failed password for oracle from 203.0.113.45 port 58540 ssh2
+Mar 13  2:59:36 student-lab-vm sshd[6931]: Failed password for support from 203.0.113.45 port 59817 ssh2
+Mar 13  3:00:00 student-lab-vm sshd[6120]: Failed password for test from 203.0.113.45 port 64794 ssh2
+Mar 13  3:01:20 student-lab-vm sshd[9692]: Failed password for guest from 203.0.113.45 port 52663 ssh2
+Mar 13  3:03:05 student-lab-vm sshd[1510]: Failed password for backup from 203.0.113.45 port 44993 ssh2
+Mar 13  3:03:18 student-lab-vm sshd[2697]: Failed password for oracle from 203.0.113.45 port 61937 ssh2
+Mar 13  3:05:00 student-lab-vm sshd[7580]: Failed password for support from 203.0.113.45 port 56968 ssh2
+Mar 13  3:07:59 student-lab-vm sshd[8048]: Failed password for guest from 203.0.113.45 port 46249 ssh2
+Mar 13  3:08:24 student-lab-vm sshd[7779]: Failed password for root from 203.0.113.45 port 54106 ssh2
+Mar 13  3:10:26 student-lab-vm sshd[7815]: Failed password for test from 203.0.113.45 port 46115 ssh2
+Mar 13  3:11:06 student-lab-vm sshd[7105]: Failed password for admin from 203.0.113.45 port 47263 ssh2
+Mar 13  3:13:27 student-lab-vm sshd[1842]: Failed password for support from 203.0.113.45 port 52425 ssh2
+Mar 13  3:20:00 student-lab-vm sshd[2773]: Failed password for root from 203.0.113.45 port 54472 ssh2
+Mar 13  3:21:56 student-lab-vm sshd[3535]: Failed password for root from 203.0.113.45 port 64519 ssh2
+Mar 13  3:22:17 student-lab-vm sshd[7731]: Accepted password for admin from 203.0.113.45 port 55821 ssh2
+Mar 13  3:22:25 student-lab-vm sshd[6400]: Failed password for admin from 203.0.113.45 port 64954 ssh2
+Mar 13  3:22:25 student-lab-vm sudo:    admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
+Mar 13  4:42:00 student-lab-vm sshd[2395]: Failed password for edward from 20.190.160.10 port 52956 ssh2
+Mar 13  6:12:00 student-lab-vm sshd[5374]: Accepted publickey for fatima from 151.101.1.69 port 49865 ssh2
+Mar 13  6:13:33 student-lab-vm sshd[3803]: pam_unix(sshd:session): session closed for user fatima
+Mar 13  6:28:00 student-lab-vm sshd[5345]: Accepted publickey for george from 10.0.0.12 port 55793 ssh2
+Mar 13  9:59:00 student-lab-vm sshd[8062]: Accepted publickey for bob from 10.0.1.15 port 64593 ssh2
+Mar 13 10:05:00 student-lab-vm sshd[9004]: Failed password for charlie from 142.250.74.78 port 56317 ssh2
+Mar 13 10:06:20 student-lab-vm sshd[8651]: pam_unix(sshd:session): session closed for user bob
+Mar 13 10:09:00 student-lab-vm sshd[7912]: Accepted publickey for diana from 52.95.120.34 port 47593 ssh2
+Mar 13 10:17:13 student-lab-vm sshd[5092]: pam_unix(sshd:session): session closed for user diana
+Mar 13 14:06:00 student-lab-vm sshd[8140]: Accepted publickey for helen from 91.198.174.192 port 51943 ssh2
+Mar 13 14:12:58 student-lab-vm sshd[6507]: pam_unix(sshd:session): session closed for user helen
+Mar 13 14:40:00 student-lab-vm sshd[3522]: Failed password for diana from 185.199.108.133 port 46849 ssh2
+Mar 13 14:41:00 student-lab-vm sshd[2169]: Failed password for edward from 13.107.246.45 port 47660 ssh2
+Mar 13 15:03:00 student-lab-vm sshd[1231]: Failed password for backup from 104.16.132.229 port 52904 ssh2
+Mar 13 15:28:00 student-lab-vm sshd[2958]: Failed password for diana from 142.250.74.78 port 53339 ssh2
+Mar 13 16:00:00 student-lab-vm sshd[9849]: Accepted publickey for edward from 13.107.246.45 port 53476 ssh2
+Mar 13 16:02:54 student-lab-vm sshd[4788]: pam_unix(sshd:session): session closed for user edward
+Mar 13 17:17:00 student-lab-vm sshd[7209]: Failed password for jdoe from 20.190.160.10 port 62999 ssh2
+Mar 13 17:21:00 student-lab-vm sshd[8179]: Accepted publickey for fatima from 142.250.74.78 port 48169 ssh2
+Mar 13 17:45:00 student-lab-vm sshd[3496]: Accepted publickey for diana from 10.0.0.12 port 63359 ssh2
+Mar 13 17:53:00 student-lab-vm sshd[4697]: Failed password for diana from 52.95.120.34 port 56637 ssh2
+Mar 13 17:53:24 student-lab-vm sshd[2874]: pam_unix(sshd:session): session closed for user diana
+Mar 13 18:28:00 student-lab-vm sshd[7565]: Failed password for administrator from 91.198.174.192 port 45141 ssh2
+Mar 13 19:52:00 student-lab-vm sshd[7543]: Accepted publickey for svc_backup from 185.199.108.133 port 62121 ssh2
+Mar 13 19:54:41 student-lab-vm sshd[9348]: pam_unix(sshd:session): session closed for user svc_backup
+Mar 13 20:07:00 student-lab-vm sshd[3847]: Failed password for charlie from 104.16.132.229 port 50859 ssh2
+Mar 13 20:07:00 student-lab-vm sshd[9922]: Failed password for george from 34.117.59.81 port 46760 ssh2
+Mar 13 20:27:00 student-lab-vm sshd[8941]: Failed password for edward from 13.107.246.45 port 57356 ssh2
+Mar 13 21:10:00 student-lab-vm sshd[1653]: Failed password for administrator from 185.199.108.133 port 45635 ssh2
+Mar 13 21:45:00 student-lab-vm sshd[5853]: Failed password for guest from 91.198.174.192 port 49360 ssh2
+Mar 13 21:51:00 student-lab-vm sshd[4919]: Accepted publickey for admin from 20.190.160.10 port 63537 ssh2
+Mar 13 21:52:39 student-lab-vm sshd[5681]: pam_unix(sshd:session): session closed for user admin
+Mar 13 22:10:00 student-lab-vm sshd[9464]: Failed password for test from 52.95.120.34 port 43332 ssh2
+Mar 13 22:28:00 student-lab-vm sshd[4335]: Accepted publickey for svc_backup from 81.2.69.142 port 54235 ssh2
+Mar 13 22:32:50 student-lab-vm sshd[9280]: pam_unix(sshd:session): session closed for user svc_backup
+Mar 13 23:20:00 student-lab-vm sshd[4824]: Failed password for guest from 185.199.108.133 port 45332 ssh2
+Mar 13 23:21:00 student-lab-vm sshd[8451]: Failed password for support from 52.95.120.34 port 44202 ssh2
+Mar 14  0:46:00 student-lab-vm sshd[9947]: Accepted publickey for george from 185.199.108.133 port 60636 ssh2
+Mar 14  1:29:00 student-lab-vm sshd[6279]: Accepted publickey for edward from 81.2.69.142 port 57086 ssh2
+Mar 14  1:36:52 student-lab-vm sshd[4501]: pam_unix(sshd:session): session closed for user edward
+Mar 14  2:25:00 student-lab-vm sshd[2527]: Failed password for alice from 52.95.120.34 port 56369 ssh2
+Mar 14  2:28:00 student-lab-vm sshd[7149]: Accepted publickey for bob from 10.0.0.12 port 53222 ssh2
+Mar 14  2:31:43 student-lab-vm sshd[2245]: pam_unix(sshd:session): session closed for user bob
+Mar 14  3:11:00 student-lab-vm sshd[6147]: Accepted publickey for edward from 81.2.69.142 port 64945 ssh2
+Mar 14  3:18:05 student-lab-vm sshd[3144]: pam_unix(sshd:session): session closed for user edward
+Mar 14  3:26:00 student-lab-vm sshd[3492]: Failed password for administrator from 34.117.59.81 port 55651 ssh2
+Mar 14  4:37:00 student-lab-vm sshd[7906]: Accepted publickey for fatima from 34.117.59.81 port 52117 ssh2
+Mar 14  4:38:43 student-lab-vm sshd[8705]: pam_unix(sshd:session): session closed for user fatima
+Mar 14  4:49:00 student-lab-vm sshd[6753]: Accepted publickey for edward from 10.0.0.33 port 52146 ssh2
+Mar 14  4:56:09 student-lab-vm sshd[9785]: pam_unix(sshd:session): session closed for user edward
+Mar 14  5:12:00 student-lab-vm sshd[3925]: Accepted publickey for alice from 10.0.1.15 port 51559 ssh2
+Mar 14  5:16:51 student-lab-vm sshd[1626]: pam_unix(sshd:session): session closed for user alice
+Mar 14  5:55:00 student-lab-vm sshd[3979]: Failed password for alice from 185.199.108.133 port 53650 ssh2
+Mar 14  6:09:00 student-lab-vm sshd[4608]: Accepted publickey for alice from 91.198.174.192 port 62282 ssh2
+Mar 14  6:10:20 student-lab-vm sshd[4750]: pam_unix(sshd:session): session closed for user alice
+Mar 14  6:24:00 student-lab-vm sshd[5891]: Failed password for test from 81.2.69.142 port 52268 ssh2
+Mar 14  6:26:00 student-lab-vm sshd[3591]: Accepted publickey for bob from 142.250.74.78 port 57246 ssh2
+Mar 14  6:30:49 student-lab-vm sshd[9201]: pam_unix(sshd:session): session closed for user bob
+Mar 14  8:02:00 student-lab-vm sshd[5118]: Failed password for jdoe from 13.107.246.45 port 53047 ssh2
+Mar 14  9:23:00 student-lab-vm sshd[4335]: Failed password for administrator from 185.199.108.133 port 44691 ssh2
+Mar 14 11:30:00 student-lab-vm sshd[4912]: Failed password for jdoe from 151.101.1.69 port 49181 ssh2
+Mar 14 12:17:00 student-lab-vm sshd[7797]: Accepted publickey for charlie from 81.2.69.142 port 45104 ssh2
+Mar 14 12:26:35 student-lab-vm sshd[8633]: pam_unix(sshd:session): session closed for user charlie
+Mar 14 12:32:00 student-lab-vm sshd[5119]: Accepted publickey for george from 52.95.120.34 port 60338 ssh2
+Mar 14 12:35:00 student-lab-vm sshd[1727]: Accepted publickey for svc_backup from 81.2.69.142 port 51346 ssh2
+Mar 14 12:35:21 student-lab-vm sshd[9518]: pam_unix(sshd:session): session closed for user svc_backup
+Mar 14 14:46:00 student-lab-vm sshd[6155]: Accepted publickey for edward from 10.0.0.33 port 49913 ssh2
+Mar 14 14:54:51 student-lab-vm sshd[7482]: pam_unix(sshd:session): session closed for user edward
+Mar 14 15:12:00 student-lab-vm sshd[7046]: Failed password for helen from 13.107.246.45 port 64756 ssh2
+Mar 14 15:45:00 student-lab-vm sshd[2713]: Failed password for oracle from 151.101.1.69 port 64958 ssh2
+Mar 14 16:46:00 student-lab-vm sshd[7381]: Accepted publickey for alice from 81.2.69.142 port 56767 ssh2
+Mar 14 17:46:00 student-lab-vm sshd[7537]: Accepted publickey for diana from 81.2.69.142 port 53214 ssh2
+Mar 14 18:40:00 student-lab-vm sshd[6974]: Accepted publickey for charlie from 10.0.0.22 port 53101 ssh2
+Mar 14 18:59:00 student-lab-vm sshd[1423]: Failed password for oracle from 20.190.160.10 port 51204 ssh2
+Mar 14 19:57:00 student-lab-vm sshd[7594]: Failed password for diana from 185.199.108.133 port 52964 ssh2
+Mar 14 21:11:00 student-lab-vm sshd[4630]: Failed password for alice from 91.198.174.192 port 52641 ssh2
+Mar 14 21:30:00 student-lab-vm sshd[4792]: Failed password for administrator from 13.107.246.45 port 44069 ssh2
+Mar 14 21:35:00 student-lab-vm sshd[2882]: Failed password for invalid user backup from 192.0.2.66 port 52128 ssh2
+Mar 14 21:36:16 student-lab-vm sshd[8030]: Failed password for invalid user helen from 192.0.2.66 port 61381 ssh2
+Mar 14 21:37:33 student-lab-vm sshd[6062]: Failed password for invalid user test from 192.0.2.66 port 54135 ssh2
+Mar 14 21:37:58 student-lab-vm sshd[5381]: Failed password for invalid user alice from 192.0.2.66 port 43948 ssh2
+Mar 14 21:39:08 student-lab-vm sshd[3972]: Failed password for invalid user alice from 192.0.2.66 port 47694 ssh2
+Mar 14 21:41:11 student-lab-vm sshd[7878]: Failed password for invalid user support from 192.0.2.66 port 57865 ssh2
+Mar 14 21:41:20 student-lab-vm sshd[2140]: Failed password for invalid user support from 192.0.2.66 port 47648 ssh2
+Mar 14 21:43:08 student-lab-vm sshd[7062]: Failed password for invalid user fatima from 192.0.2.66 port 53211 ssh2
+Mar 14 21:43:10 student-lab-vm sshd[1815]: Failed password for invalid user fatima from 192.0.2.66 port 45673 ssh2
+Mar 14 21:43:42 student-lab-vm sshd[2503]: Failed password for invalid user alice from 192.0.2.66 port 60382 ssh2
+Mar 14 21:45:27 student-lab-vm sshd[7947]: Failed password for invalid user jdoe from 192.0.2.66 port 58914 ssh2
+Mar 14 21:45:58 student-lab-vm sshd[8972]: Failed password for invalid user guest from 192.0.2.66 port 60266 ssh2
+Mar 14 21:46:29 student-lab-vm sshd[6655]: Failed password for invalid user diana from 192.0.2.66 port 57087 ssh2
+Mar 14 21:47:54 student-lab-vm sshd[2391]: Failed password for invalid user oracle from 192.0.2.66 port 44723 ssh2
+Mar 14 21:50:36 student-lab-vm sshd[7785]: Failed password for invalid user jdoe from 192.0.2.66 port 51951 ssh2
+Mar 14 21:51:43 student-lab-vm sshd[3248]: Failed password for invalid user george from 192.0.2.66 port 51372 ssh2
+Mar 14 21:52:20 student-lab-vm sshd[1125]: Failed password for invalid user bob from 192.0.2.66 port 49698 ssh2
+Mar 14 21:52:24 student-lab-vm sshd[2965]: Failed password for invalid user oracle from 192.0.2.66 port 43253 ssh2
+Mar 14 21:54:35 student-lab-vm sshd[1341]: Failed password for invalid user support from 192.0.2.66 port 53642 ssh2
+Mar 14 21:55:30 student-lab-vm sshd[1744]: Failed password for invalid user guest from 192.0.2.66 port 50225 ssh2
+Mar 14 21:56:20 student-lab-vm sshd[9196]: Failed password for invalid user helen from 192.0.2.66 port 61308 ssh2
+Mar 14 21:56:40 student-lab-vm sshd[6928]: Failed password for invalid user jdoe from 192.0.2.66 port 45887 ssh2
+Mar 14 21:57:29 student-lab-vm sshd[3878]: Failed password for invalid user temp from 192.0.2.66 port 47233 ssh2
+Mar 14 22:01:27 student-lab-vm sshd[6129]: Failed password for invalid user charlie from 192.0.2.66 port 61866 ssh2
+Mar 14 22:01:48 student-lab-vm sshd[7843]: Failed password for invalid user support from 192.0.2.66 port 52486 ssh2
+Mar 14 22:02:44 student-lab-vm sshd[6752]: Failed password for invalid user backup from 192.0.2.66 port 64149 ssh2
+Mar 14 22:02:46 student-lab-vm sshd[4232]: Failed password for invalid user test from 192.0.2.66 port 48685 ssh2
+Mar 14 22:05:09 student-lab-vm sshd[4986]: Failed password for invalid user diana from 192.0.2.66 port 57276 ssh2
+Mar 14 22:05:30 student-lab-vm sshd[2251]: Failed password for invalid user fatima from 192.0.2.66 port 59727 ssh2
+Mar 14 22:06:25 student-lab-vm sshd[6562]: Failed password for invalid user guest from 192.0.2.66 port 50260 ssh2
+Mar 14 22:07:33 student-lab-vm sshd[2180]: Failed password for invalid user backup from 192.0.2.66 port 56011 ssh2
+Mar 14 22:09:50 student-lab-vm sshd[8147]: Failed password for invalid user bob from 192.0.2.66 port 43614 ssh2
+Mar 14 22:10:56 student-lab-vm sshd[9584]: Failed password for invalid user support from 192.0.2.66 port 45577 ssh2
+Mar 14 22:16:20 student-lab-vm sshd[9693]: Failed password for invalid user diana from 192.0.2.66 port 59710 ssh2
+Mar 14 22:20:30 student-lab-vm sshd[2234]: Failed password for invalid user edward from 192.0.2.66 port 48804 ssh2
+Mar 14 22:23:00 student-lab-vm sshd[3529]: Failed password for alice from 104.16.132.229 port 56434 ssh2
+Mar 14 22:25:36 student-lab-vm sshd[4871]: Failed password for invalid user edward from 192.0.2.66 port 46368 ssh2
+Mar 14 22:28:24 student-lab-vm sshd[8601]: Failed password for invalid user administrator from 192.0.2.66 port 61472 ssh2
+Mar 14 22:29:16 student-lab-vm sshd[6295]: Failed password for invalid user jdoe from 192.0.2.66 port 63552 ssh2
+Mar 14 22:50:00 student-lab-vm sshd[4652]: Accepted publickey for fatima from 142.250.74.78 port 50457 ssh2
+Mar 14 22:53:37 student-lab-vm sshd[7528]: pam_unix(sshd:session): session closed for user fatima
+Mar 14 23:04:00 student-lab-vm sshd[9494]: Failed password for temp from 81.2.69.142 port 49146 ssh2
+Mar 14 23:28:00 student-lab-vm sshd[6280]: Failed password for temp from 20.190.160.10 port 51794 ssh2
+Mar 15  0:14:00 student-lab-vm sshd[8141]: Failed password for jdoe from 13.107.246.45 port 48947 ssh2
+Mar 15  0:36:00 student-lab-vm sshd[6419]: Failed password for backup from 34.117.59.81 port 61035 ssh2
+Mar 15  0:52:00 student-lab-vm sshd[7790]: Accepted publickey for svc_backup from 10.0.0.33 port 57923 ssh2
+Mar 15  1:21:00 student-lab-vm sshd[1841]: Failed password for jdoe from 151.101.1.69 port 49041 ssh2
+Mar 15  2:07:00 student-lab-vm sshd[9903]: Failed password for backup from 151.101.1.69 port 61085 ssh2
+Mar 15  2:34:00 student-lab-vm sshd[6576]: Failed password for george from 151.101.1.69 port 51465 ssh2
+Mar 15  2:42:00 student-lab-vm sshd[7939]: Accepted publickey for edward from 10.0.0.22 port 46024 ssh2
+Mar 15  3:08:00 student-lab-vm sshd[1878]: Failed password for charlie from 20.190.160.10 port 63625 ssh2
+Mar 15  3:22:00 student-lab-vm sshd[3504]: Accepted publickey for bob from 10.0.0.22 port 46592 ssh2
+Mar 15  3:29:32 student-lab-vm sshd[2040]: pam_unix(sshd:session): session closed for user bob
+Mar 15  3:37:00 student-lab-vm sshd[6439]: Failed password for bob from 104.16.132.229 port 59459 ssh2
+Mar 15  4:02:00 student-lab-vm sshd[7807]: Failed password for guest from 52.95.120.34 port 51959 ssh2
+Mar 15  4:12:00 student-lab-vm sshd[3473]: Invalid user administrator from 198.51.100.23 port 45237
+Mar 15  4:13:00 student-lab-vm sshd[8245]: Invalid user support from 198.51.100.23 port 52000
+Mar 15  4:13:42 student-lab-vm sshd[6085]: Invalid user administrator from 198.51.100.23 port 57808
+Mar 15  4:14:08 student-lab-vm sshd[1932]: Invalid user temp from 198.51.100.23 port 52406
+Mar 15  4:14:14 student-lab-vm sshd[1920]: Invalid user temp from 198.51.100.23 port 59624
+Mar 15  4:14:50 student-lab-vm sshd[2479]: Invalid user jdoe from 198.51.100.23 port 58162
+Mar 15  4:18:42 student-lab-vm sshd[1672]: Invalid user administrator from 198.51.100.23 port 61732
+Mar 15  4:20:00 student-lab-vm sshd[9214]: Invalid user oracle from 198.51.100.23 port 45027
+Mar 15  4:20:17 student-lab-vm sshd[4084]: Invalid user temp from 198.51.100.23 port 62824
+Mar 15  4:20:42 student-lab-vm sshd[2695]: Invalid user temp from 198.51.100.23 port 45763
+Mar 15  4:22:20 student-lab-vm sshd[3827]: Invalid user test from 198.51.100.23 port 51118
+Mar 15  4:22:24 student-lab-vm sshd[7347]: Invalid user jdoe from 198.51.100.23 port 54087
+Mar 15  4:24:16 student-lab-vm sshd[3463]: Invalid user temp from 198.51.100.23 port 45670
+Mar 15  4:24:36 student-lab-vm sshd[3600]: Invalid user temp from 198.51.100.23 port 55217
+Mar 15  4:24:45 student-lab-vm sshd[2548]: Invalid user jdoe from 198.51.100.23 port 52310
+Mar 15  4:25:45 student-lab-vm sshd[8172]: Invalid user administrator from 198.51.100.23 port 60172
+Mar 15  4:29:02 student-lab-vm sshd[1857]: Invalid user temp from 198.51.100.23 port 45159
+Mar 15  4:30:00 student-lab-vm sshd[6381]: Invalid user oracle from 198.51.100.23 port 64958
+Mar 15  4:30:59 student-lab-vm sshd[3317]: Invalid user temp from 198.51.100.23 port 53165
+Mar 15  4:33:18 student-lab-vm sshd[7421]: Invalid user oracle from 198.51.100.23 port 62498
+Mar 15  4:35:45 student-lab-vm sshd[2388]: Invalid user support from 198.51.100.23 port 61314
+Mar 15  4:37:54 student-lab-vm sshd[9624]: Invalid user guest from 198.51.100.23 port 64168
+Mar 15  5:18:00 student-lab-vm sshd[7126]: Accepted publickey for svc_backup from 81.2.69.142 port 48008 ssh2
+Mar 15  5:47:00 student-lab-vm sshd[2389]: Accepted publickey for helen from 192.168.1.44 port 64589 ssh2
+Mar 15  5:53:03 student-lab-vm sshd[2530]: pam_unix(sshd:session): session closed for user helen
+Mar 15  8:55:00 student-lab-vm sshd[1444]: Accepted publickey for alice from 34.117.59.81 port 62395 ssh2
+Mar 15  8:55:00 student-lab-vm sshd[7216]: Accepted publickey for diana from 192.168.1.44 port 58147 ssh2
+Mar 15  9:02:38 student-lab-vm sshd[3223]: pam_unix(sshd:session): session closed for user alice
+Mar 15  9:04:50 student-lab-vm sshd[4598]: pam_unix(sshd:session): session closed for user diana
+Mar 15  9:37:00 student-lab-vm sshd[8749]: Accepted publickey for charlie from 20.190.160.10 port 50962 ssh2
+Mar 15  9:38:00 student-lab-vm sshd[6310]: Accepted publickey for admin from 10.0.0.12 port 62626 ssh2
+Mar 15  9:40:14 student-lab-vm sshd[6947]: pam_unix(sshd:session): session closed for user admin
+Mar 15 11:15:00 student-lab-vm sshd[9327]: Failed password for edward from 34.117.59.81 port 49245 ssh2
+Mar 15 11:21:00 student-lab-vm sshd[7693]: Failed password for charlie from 104.16.132.229 port 43087 ssh2
+Mar 15 11:22:00 student-lab-vm sshd[4150]: Accepted publickey for edward from 151.101.1.69 port 61918 ssh2
+Mar 15 11:23:06 student-lab-vm sshd[4733]: pam_unix(sshd:session): session closed for user edward
+Mar 15 11:33:00 student-lab-vm sshd[9042]: Failed password for guest from 104.16.132.229 port 63901 ssh2
+Mar 15 11:48:00 student-lab-vm sshd[9041]: Failed password for helen from 185.199.108.133 port 64164 ssh2
+Mar 15 12:34:00 student-lab-vm sshd[3442]: Accepted publickey for alice from 10.0.1.15 port 45465 ssh2
+Mar 15 12:40:38 student-lab-vm sshd[3426]: pam_unix(sshd:session): session closed for user alice
+Mar 15 13:00:00 student-lab-vm sshd[7043]: Accepted publickey for diana from 52.95.120.34 port 51396 ssh2
+Mar 15 13:02:17 student-lab-vm sshd[3683]: pam_unix(sshd:session): session closed for user diana
+Mar 15 13:16:00 student-lab-vm sshd[8018]: Accepted publickey for alice from 151.101.1.69 port 60456 ssh2
+Mar 15 13:17:30 student-lab-vm sshd[9289]: pam_unix(sshd:session): session closed for user alice
+Mar 15 13:46:00 student-lab-vm sshd[2343]: Accepted publickey for diana from 10.0.0.22 port 63295 ssh2
+Mar 15 13:55:58 student-lab-vm sshd[9565]: pam_unix(sshd:session): session closed for user diana
+Mar 15 14:04:00 student-lab-vm sshd[1715]: Failed password for support from 142.250.74.78 port 56460 ssh2
+Mar 15 14:35:00 student-lab-vm sshd[7547]: Accepted publickey for diana from 34.117.59.81 port 59199 ssh2
+Mar 15 14:35:25 student-lab-vm sshd[2746]: pam_unix(sshd:session): session closed for user diana
+Mar 15 15:44:00 student-lab-vm sshd[1096]: Accepted publickey for alice from 34.117.59.81 port 58629 ssh2
+Mar 15 16:50:00 student-lab-vm sshd[2983]: Accepted publickey for diana from 10.0.1.15 port 52882 ssh2
+Mar 15 17:14:00 student-lab-vm sshd[2964]: Accepted publickey for bob from 91.198.174.192 port 56230 ssh2
+Mar 15 18:11:00 student-lab-vm sshd[9928]: Accepted publickey for alice from 81.2.69.142 port 64295 ssh2
+Mar 15 18:18:59 student-lab-vm sshd[5557]: pam_unix(sshd:session): session closed for user alice
+Mar 15 18:25:00 student-lab-vm sshd[9785]: Accepted publickey for edward from 10.0.0.22 port 58054 ssh2
+Mar 15 18:31:47 student-lab-vm sshd[2291]: pam_unix(sshd:session): session closed for user edward
+Mar 15 19:14:00 student-lab-vm sshd[4457]: Failed password for diana from 142.250.74.78 port 63496 ssh2
+Mar 15 20:02:00 student-lab-vm sshd[9977]: Accepted publickey for svc_backup from 142.250.74.78 port 56306 ssh2
+Mar 15 20:44:00 student-lab-vm sshd[3900]: Accepted publickey for charlie from 91.198.174.192 port 48324 ssh2
+Mar 15 22:40:00 student-lab-vm sshd[6700]: Failed password for administrator from 91.198.174.192 port 58401 ssh2
+Mar 15 23:18:00 student-lab-vm sshd[5012]: Accepted publickey for bob from 10.0.0.12 port 52012 ssh2
+Mar 15 23:20:04 student-lab-vm sshd[9935]: pam_unix(sshd:session): session closed for user bob
+Mar 15 23:46:00 student-lab-vm sshd[3287]: Accepted publickey for helen from 192.168.1.20 port 51679 ssh2
+Mar 15 23:55:54 student-lab-vm sshd[9830]: pam_unix(sshd:session): session closed for user helen
+Mar 16  0:24:00 student-lab-vm sshd[9031]: Failed password for oracle from 81.2.69.142 port 56764 ssh2
+Mar 16  0:43:00 student-lab-vm sshd[8397]: Accepted publickey for fatima from 52.95.120.34 port 59959 ssh2
+Mar 16  0:47:10 student-lab-vm sshd[2049]: pam_unix(sshd:session): session closed for user fatima
+Mar 16  0:48:00 student-lab-vm sshd[8921]: Failed password for test from 20.190.160.10 port 60634 ssh2
+Mar 16  2:34:00 student-lab-vm sshd[6067]: Accepted publickey for bob from 142.250.74.78 port 59617 ssh2
+Mar 16  2:39:54 student-lab-vm sshd[7592]: pam_unix(sshd:session): session closed for user bob
+Mar 16  3:19:00 student-lab-vm sshd[3091]: Accepted publickey for george from 192.168.1.44 port 58315 ssh2
+Mar 16  3:42:00 student-lab-vm sshd[2188]: Accepted publickey for edward from 52.95.120.34 port 53360 ssh2
+Mar 16  3:51:56 student-lab-vm sshd[2638]: pam_unix(sshd:session): session closed for user edward
+Mar 16  5:28:00 student-lab-vm sshd[1525]: Accepted publickey for fatima from 10.0.0.22 port 50505 ssh2
+Mar 16  7:11:00 student-lab-vm sshd[7888]: Accepted publickey for edward from 192.168.1.20 port 49286 ssh2
+Mar 16  7:17:48 student-lab-vm sshd[3851]: pam_unix(sshd:session): session closed for user edward
+Mar 16  8:03:00 student-lab-vm sshd[5905]: Accepted publickey for edward from 10.0.0.12 port 64884 ssh2
+Mar 16  8:34:00 student-lab-vm sshd[9548]: Failed password for edward from 34.117.59.81 port 48771 ssh2
+Mar 16  8:40:00 student-lab-vm sshd[1893]: Failed password for edward from 13.107.246.45 port 44491 ssh2
+Mar 16 13:25:00 student-lab-vm sshd[8933]: Failed password for fatima from 142.250.74.78 port 50090 ssh2
+Mar 16 13:32:00 student-lab-vm sshd[5050]: Accepted publickey for helen from 52.95.120.34 port 51493 ssh2
+Mar 16 13:53:00 student-lab-vm sshd[7798]: Failed password for edward from 91.198.174.192 port 52052 ssh2
+Mar 16 15:07:00 student-lab-vm sshd[8305]: Accepted publickey for helen from 185.199.108.133 port 60952 ssh2
+Mar 16 16:01:00 student-lab-vm sshd[5889]: Accepted publickey for charlie from 10.0.1.15 port 63489 ssh2
+Mar 16 16:24:00 student-lab-vm sshd[3870]: Failed password for test from 20.190.160.10 port 44318 ssh2
+Mar 16 17:28:00 student-lab-vm sshd[9889]: Failed password for support from 52.95.120.34 port 43037 ssh2
+Mar 16 17:32:00 student-lab-vm sshd[2654]: Accepted publickey for edward from 10.0.0.33 port 50628 ssh2
+Mar 16 17:40:04 student-lab-vm sshd[6977]: pam_unix(sshd:session): session closed for user edward
+Mar 16 17:54:00 student-lab-vm sshd[5871]: Failed password for support from 185.199.108.133 port 57507 ssh2
+Mar 16 18:16:00 student-lab-vm sshd[9486]: Accepted publickey for george from 91.198.174.192 port 48763 ssh2
+Mar 16 18:25:50 student-lab-vm sshd[5082]: pam_unix(sshd:session): session closed for user george
+Mar 16 19:11:00 student-lab-vm sshd[8973]: Accepted publickey for helen from 142.250.74.78 port 56861 ssh2
+Mar 16 19:16:23 student-lab-vm sshd[4566]: pam_unix(sshd:session): session closed for user helen
+Mar 16 20:41:00 student-lab-vm sshd[5088]: Accepted publickey for alice from 151.101.1.69 port 49883 ssh2
+Mar 16 20:47:22 student-lab-vm sshd[7658]: pam_unix(sshd:session): session closed for user alice
+Mar 16 22:06:00 student-lab-vm sshd[8066]: Accepted publickey for admin from 81.2.69.142 port 54934 ssh2
+Mar 16 22:11:58 student-lab-vm sshd[6143]: pam_unix(sshd:session): session closed for user admin
+Mar 16 22:30:00 student-lab-vm sshd[6574]: Accepted publickey for alice from 192.168.1.44 port 56848 ssh2
+Mar 16 22:34:00 student-lab-vm sshd[6514]: pam_unix(sshd:session): session closed for user alice
+Mar 16 23:44:00 student-lab-vm sshd[4262]: Accepted publickey for diana from 142.250.74.78 port 50361 ssh2
+Mar 16 23:45:07 student-lab-vm sshd[5011]: pam_unix(sshd:session): session closed for user diana
+Mar 17  1:58:00 student-lab-vm sshd[8483]: Failed password for administrator from 185.199.108.133 port 50986 ssh2
+Mar 17  2:20:00 student-lab-vm sshd[9824]: Failed password for administrator from 104.16.132.229 port 57632 ssh2
+Mar 17  3:49:00 student-lab-vm sshd[8612]: Accepted publickey for bob from 52.95.120.34 port 47369 ssh2
+Mar 17  3:58:52 student-lab-vm sshd[6198]: pam_unix(sshd:session): session closed for user bob
+Mar 17  4:17:00 student-lab-vm sshd[8385]: Failed password for helen from 91.198.174.192 port 52139 ssh2
+Mar 17  4:25:00 student-lab-vm sshd[9320]: Accepted publickey for admin from 192.168.1.44 port 44863 ssh2
+Mar 17  4:28:30 student-lab-vm sshd[2122]: pam_unix(sshd:session): session closed for user admin
+Mar 17  5:06:00 student-lab-vm sshd[9117]: Failed password for fatima from 151.101.1.69 port 56488 ssh2
+Mar 17  5:26:00 student-lab-vm sshd[1986]: Failed password for temp from 13.107.246.45 port 61632 ssh2
+Mar 17  5:31:00 student-lab-vm sshd[5371]: Accepted publickey for alice from 10.0.1.15 port 60595 ssh2
+Mar 17  5:56:00 student-lab-vm sshd[7596]: Accepted publickey for alice from 10.0.1.15 port 44986 ssh2
+Mar 17  5:58:11 student-lab-vm sshd[5073]: pam_unix(sshd:session): session closed for user alice
+Mar 17  6:21:00 student-lab-vm sshd[5262]: Accepted publickey for helen from 192.168.1.44 port 44647 ssh2
+Mar 17  6:24:56 student-lab-vm sshd[8449]: pam_unix(sshd:session): session closed for user helen
+Mar 17  6:44:00 student-lab-vm sshd[9617]: Failed password for diana from 185.199.108.133 port 46267 ssh2
+Mar 17  7:04:00 student-lab-vm sshd[4269]: Accepted publickey for alice from 20.190.160.10 port 50288 ssh2
+Mar 17  7:23:00 student-lab-vm sshd[2604]: Accepted publickey for bob from 52.95.120.34 port 61033 ssh2
+Mar 17  7:32:33 student-lab-vm sshd[1241]: pam_unix(sshd:session): session closed for user bob
+Mar 17  7:58:00 student-lab-vm sshd[4946]: Accepted publickey for edward from 91.198.174.192 port 44898 ssh2

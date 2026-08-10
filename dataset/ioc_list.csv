@@ -1,0 +1,22 @@
+ioc_type,ioc_value,threat_label,severity,source
+ip,203.0.113.45,SSH brute-force source,high,Simulated Threat Intel Feed
+ip,198.51.100.23,Known scanner,medium,Simulated Threat Intel Feed
+ip,192.0.2.66,Credential stuffing source,high,Simulated Threat Intel Feed
+ip,203.0.113.77,Suspicious web probing,critical,Simulated Threat Intel Feed
+ip,198.51.100.88,Possible C2 infrastructure,high,Simulated Threat Intel Feed
+domain,update-checker.example,Possible malware update domain,high,Simulated Threat Intel Feed
+domain,cdn-login.example,Phishing infrastructure,medium,Simulated Threat Intel Feed
+domain,fileshare-sync.example,Suspicious download domain,high,Simulated Threat Intel Feed
+sha256,7f6a9c8e3b2d4f1a0c9b8e7d6a5f4c3b2a1908e7d6c5b4a39281726354433221,Trojan downloader sample,critical,Simulated Threat Intel Feed
+sha256,f1e2d3c4b5a697887766554433221100ffeeddccbbaa99887766554433221100,PowerShell dropper,critical,Simulated Threat Intel Feed
+sha256,aa11bb22cc33dd44ee55ff6677889900aa11bb22cc33dd44ee55ff6677889900,Suspicious archive payload,high,Simulated Threat Intel Feed
+sha256,benign-training-0.example,Inactive phishing host,medium,Simulated Threat Intel Feed
+sha256,benign-training-1.example,Inactive phishing host,low,Simulated Threat Intel Feed
+ip,198.51.100.105,Inactive phishing host,medium,Simulated Threat Intel Feed
+sha256,benign-training-3.example,Inactive phishing host,low,Simulated Threat Intel Feed
+domain,cf849b19f57c48b217d1915eddbd1d91de29182a01e506e95d84536da753b123,Inactive phishing host,low,Simulated Threat Intel Feed
+sha256,198.51.100.131,Unconfirmed suspicious file,medium,Simulated Threat Intel Feed
+sha256,203.0.113.110,Inactive phishing host,low,Simulated Threat Intel Feed
+domain,benign-training-7.example,Old scanner,medium,Simulated Threat Intel Feed
+sha256,21df62b69558d74f039eac2b8ebbb5a84d48ca62fb4391e624cb269811823d7b,Inactive phishing host,low,Simulated Threat Intel Feed
+sha256,203.0.113.160,Inactive phishing host,medium,Simulated Threat Intel Feed
